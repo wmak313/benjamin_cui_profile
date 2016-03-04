@@ -1,0 +1,25 @@
+@import "prettyPhoto.css";
+
+body {
+    padding-top: 70px;
+}
+
+.thumbnail{
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    border: 1px solid #444;
+}
+
+.thumbnail img{
+    opacity: .75;
+}
+
+.thumbnail img:hover{
+    opacity: 1;
+}
+.gallery {
+    color:#fff;
+}
+
+
